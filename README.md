@@ -2,6 +2,9 @@
 
 This is a simple crypto trading platform built with Laravel and Vue.js. It allows users to place buy and sell orders for crypto assets, and it features a real-time order matching engine.
 
+<img width="1267" height="931" alt="Screenshot 2025-12-10 at 13 39 10" src="https://github.com/user-attachments/assets/54f96472-0a0e-4d0a-afb5-0b0e352a0ddd" />
+
+
 ## Technologies Used
 
 -   **Backend**: Laravel 12
